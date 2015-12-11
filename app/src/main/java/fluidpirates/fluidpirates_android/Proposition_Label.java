@@ -8,6 +8,6 @@ public class Proposition_Label extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_proposition__label2);
+        setContentView(R.layout.activity_proposition__label);
     }
 }

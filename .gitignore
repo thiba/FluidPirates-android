@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ca3a108bf81f3676c2a255dba2b2624228b06a69
 *.iml
 .gradle
 /local.properties
@@ -7,6 +10,7 @@
 .DS_Store
 /build
 /captures
+<<<<<<< HEAD
 =======
 # Built application files
 *.apk
@@ -36,3 +40,5 @@ proguard/
 # Log Files
 *.log
 >>>>>>> a6b70b464ed9eb2b697d4b04974d426f15e9964f
+=======
+>>>>>>> ca3a108bf81f3676c2a255dba2b2624228b06a69

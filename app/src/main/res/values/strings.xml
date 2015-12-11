@@ -27,4 +27,28 @@
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_fluid_pirates">fluidPirates</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="connexion">Se connecter</string>
+
+    <string-array name="name_group">
+        <item>UTT</item>
+        <item>UTC</item>
+        <item>UTB</item>
+    </string-array>
+    <string-array name="followers_tweet_list">
+        <item>It\'s the follower\'s fourth tweet</item>
+        <item>It\'s the follower\'s third tweet</item>
+        <item>It\'s the follower\'s second tweet</item>
+        <item>It\'s the follower\'s first tweet</item>
+    </string-array>
+    <string-array name="followees_tweet_list">
+        <item>It\'s the followee\'s fourth tweet</item>
+        <item>It\'s the followee\'s third tweet</item>
+        <item>It\'s the followee\'s second tweet</item>
+        <item>It\'s the followee\'s first tweet</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_groups">Groups</string>
 </resources>

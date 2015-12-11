@@ -28,10 +28,11 @@
         <activity
             android:name=".Navigation"
             android:label="@string/title_activity_navigation" />
+        <activity android:name=".Proposition_Label" />
+        <activity android:name=".oneProposition" />
         <activity
-            android:name=".fluidPirates"
-            android:label="@string/title_activity_fluid_pirates" />
-        <activity android:name=".Proposition_Label"></activity>
+            android:name=".Groups"
+            android:label="@string/title_activity_groups"></activity>
     </application>
 
 </manifest>
